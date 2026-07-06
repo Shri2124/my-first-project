@@ -6,5 +6,6 @@ I am learning:
 - Git
 - GitHub
 - Web Development
+- App Development
 
 More updates coming soon.
